@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm:TermDictionary xmlns:tm="http://exerd.com/term-model" version="1.1">
+  <term name="사용자" physicalName="USER"/>
+  <term name="아이디" physicalName="ID"/>
+  <term name="비밀번호" physicalName="PW"/>
+  <term name="이름" physicalName="NM"/>
+  <term name="회원" physicalName="MEMBER"/>
+  <term name="게임" physicalName="GAME"/>
+  <term name="날짜" physicalName="DT"/>
+  <term name="점수" physicalName="SCORE"/>
+  <term name="세트" physicalName="SET"/>
+  <term name="최초" physicalName="FIRST"/>
+  <term name="최종" physicalName="LAST"/>
+  <term name="작성" physicalName="WRITE"/>
+  <term name="수정" physicalName="MOD"/>
+  <term name="관리자" physicalName="ADMIN"/>
+  <term name="권한" physicalName="AUTH"/>
+</tm:TermDictionary>
